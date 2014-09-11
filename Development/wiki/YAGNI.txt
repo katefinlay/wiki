@@ -1,0 +1,6 @@
+YAGNI - You Ain't Gonna Need it
+
+"Always implement things when you actually need them, never when you just foresee that you need them." - Ron Jeffries
+
+References:
+http://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it
